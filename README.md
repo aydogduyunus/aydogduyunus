@@ -4,7 +4,7 @@
 
 
 
-[![MasterHead]([[[[https://stock.adobe.com/search?k=software+tester&asset_id=136514488](https://as1.ftcdn.net/v2/jpg/01/36/51/44/1000_F_136514488_j1u863gh50fsRqIFQDHIn1HW7JeHPJVz.jpg)](https://www.orientsoftware.com/Themes/OrientSoftwareTheme/Content/Images/blog/2022-08-24/system-testing-vs-end-to-end-testing-which-is-better.jpg)](https://www.kualitee.com/wp-content/uploads/2020/08/With-Software-Testing-aEoeTime-is-moneyaE_-Effective-Time-Planning.jpg)](https://media.licdn.com/dms/image/D4D16AQHf7FbPxKJVDw/profile-displaybackgroundimage-shrink_350_1400/0/1681733209660?e=1692835200&v=beta&t=3C2hPqAvm37k-L0F00QnsPU_pYgLHPv42-5cZb1vjRM))
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHf7FbPxKJVDw/profile-displaybackgroundimage-shrink_350_1400/0/1681733209660?e=1692835200&v=beta&t=3C2hPqAvm37k-L0F00QnsPU_pYgLHPv42-5cZb1vjRM)
 
 
 <h1 align="center">Hi 👋, I'm Yunus</h1>
