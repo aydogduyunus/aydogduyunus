@@ -26,6 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aydogduyunus&" alt="aydogduyunus" /></p>
 
+## 😂 İşte sizi güldürecek rastgele bir şaka!
+! [Şakalar Kartı] ( https://readme-jokes.vercel.app/api)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aydogduyunus/aydogduyunus/output/github-contribution-grid-snake-dark.svg">
