@@ -1,9 +1,5 @@
 
 
-
-
-
-
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQHf7FbPxKJVDw/profile-displaybackgroundimage-shrink_350_1400/0/1681733209660?e=1692835200&v=beta&t=3C2hPqAvm37k-L0F00QnsPU_pYgLHPv42-5cZb1vjRM)
 
 
@@ -24,8 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aydogduyunus&show_icons=true&locale=en" alt="aydogduyunus" /></p>
 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aydogduyunus&" alt="aydogduyunus" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aydogduyunus/aydogduyunus/output/github-contribution-grid-snake-dark.svg">
