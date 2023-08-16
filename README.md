@@ -16,9 +16,8 @@
 <img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+ <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 
 
