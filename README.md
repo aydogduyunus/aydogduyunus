@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=hanzelkaraagac&&style=plastics&&color=yellow" align="right"/> </p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Software+Library+Channel;+Click+image+to+join+our+server)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
