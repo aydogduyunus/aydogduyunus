@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://www.linkedin.com/in/aydogduyunus/overlay/background-image/)
+![MasterHead]([https://www.linkedin.com/in/aydogduyunus/overlay/background-image/])
 
 
 <h1 align="center">Hi 👋, I'm Yunus</h1>
