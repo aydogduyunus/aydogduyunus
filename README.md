@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQF68CkiH1wVNg/profile-displaybackgroundimage-shrink_350_1400/0/1692030565784?e=1697673600&v=beta&t=HvRC9qeMYkMG-Cnm9OSCGI7kVcEMVmC3k7pZmitBLEE)
+![MasterHead]([https://media.licdn.com/dms/image/D4D16AQF68CkiH1wVNg/profile-displaybackgroundimage-shrink_350_1400/0/1692030565784?e=1697673600&v=beta&t=HvRC9qeMYkMG-Cnm9OSCGI7kVcEMVmC3k7pZmitBLEE]
 
 
 <h1 align="center">Hi 👋, I'm Yunus</h1>
