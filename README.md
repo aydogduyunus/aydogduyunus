@@ -1,6 +1,7 @@
 
 
-![linkedinBanner]([https://www.linkedin.com/in/aydogduyunus/overlay/background-image/])
+![LinkedIn Profil Resmi](https://www.linkedin.com/in/aydogduyunus/overlay/background-image/)
+
 
 
 <h1 align="center">Hi 👋, I'm Yunus</h1>
