@@ -1,6 +1,6 @@
 
 
-![LinkedIn Profil Resmi](https://www.linkedin.com/in/aydogduyunus/overlay/background-image/)
+![LinkedIn Banner Resmi](https://www.linkedin.com/in/aydogduyunus/overlay/background-image/)
 
 
 
