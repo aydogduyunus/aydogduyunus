@@ -10,7 +10,7 @@
 - 📫 How to reach me **aydogduyunus92@gmail.com**
 
 
-   
+   <!--
 <h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
