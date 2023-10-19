@@ -5,10 +5,9 @@
 
 
 <h1 align="center">Hi 🙋🏻,  I'm Yunus</h1>
-<h3 align="center">A passionate Software Automation Engineer from Turkiye</h3>
+<h3 align="center">A passionate Software Test Engineer from Turkiye</h3>
 
 - 📫 How to reach me **aydogduyunus92@gmail.com**
-
 
 <!--
 <h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h3>
