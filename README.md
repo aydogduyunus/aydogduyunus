@@ -1,6 +1,6 @@
 
 
-![LinkedIn Banner Resmi](https://media.licdn.com/dms/image/D4D16AQHHKhA3HRMYpw/profile-displaybackgroundimage-shrink_350_1400/0/1694726304537?e=1700092800&v=beta&t=NaL7rDqwybrScmOaGDBqROWa5ELcgsTHpo3Pnfrnwk8)
+![LinkedIn Banner Resmi]([https://media.licdn.com/dms/image/D4D16AQHHKhA3HRMYpw/profile-displaybackgroundimage-shrink_350_1400/0/1694726304537?e=1700092800&v=beta&t=NaL7rDqwybrScmOaGDBqROWa5ELcgsTHpo3Pnfrnwk8](https://www.linkedin.com/in/aydogduyunus/overlay/background-image/))
 
 
 
