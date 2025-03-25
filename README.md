@@ -1,6 +1,6 @@
 
 
-![LinkedIn Banner Resmi]([https://media.licdn.com/dms/image/D4D16AQG406Z-L6cavQ/profile-displaybackgroundimage-shrink_350_1400/0/1717507126419?e=1723075200&v=beta&t=CAjVL4hPCicfI9KUyeUpccn6ACA4ZqKF1st9IgL8FV0])
+![LinkedIn Banner Resmi](https://yt3.googleusercontent.com/gfp4NFC7Q8XgAcalKvkQ8tGhO7pe7rW7X2j8vONvN6F0n8MKs6ZaSm63BG7Jew7g_qVtSOxV7Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 
 
