@@ -1,6 +1,6 @@
 
 
-![LinkedIn Banner Resmi]([https://media.licdn.com/dms/image/D4D16AQG406Z-L6cavQ/profile-displaybackgroundimage-shrink_350_1400/0/1717507126419?e=1723075200&v=beta&t=CAjVL4hPCicfI9KUyeUpccn6ACA4ZqKF1st9IgL8FV0](https://media.licdn.com/dms/image/v2/D4D16AQG406Z-L6cavQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352412568?e=1748476800&v=beta&t=9iw7e9CNeQkotqxyM9QzqI1M3QqznJkCASGElr16pK4))
+![LinkedIn Banner Resmi]([https://media.licdn.com/dms/image/D4D16AQG406Z-L6cavQ/profile-displaybackgroundimage-shrink_350_1400/0/1717507126419?e=1723075200&v=beta&t=CAjVL4hPCicfI9KUyeUpccn6ACA4ZqKF1st9IgL8FV0])
 
 
 
