@@ -61,7 +61,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aydogduyunus&show_icons=true&locale=en" alt="aydogduyunus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aydogduyunus" alt="GitHub Streak" /></p>
+
 
 ---
 
