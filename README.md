@@ -1,4 +1,4 @@
-![LinkedIn Banner Resmi](https://yt3.googleusercontent.com/gfp4NFC7Q8XgAcalKvkQ8tGhO7pe7rW7X2j8vONvN6F0n8MKs6ZaSm63BG7Jew7g_qVtSOxV7Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![LinkedIn Banner Resmi](https://media.licdn.com/dms/image/v2/D4D16AQFWQaLdMtKrIA/profile-displaybackgroundimage-shrink_350_1400/B4DZlcIVJGGsAc-/0/1758187312797?e=1761177600&v=beta&t=Rq0WaEX_ZMHvbQ4NiEjw8mpsG0tfw_WNmwCApm4w8lk)
 
 <h1 align="center">Hi 🙋🏻, I'm Yunus</h1>
 <h3 align="center">A passionate Software Test Engineer from Turkiye</h3>
