@@ -1,4 +1,4 @@
-![LinkedIn Banner Resmi](https://www.linkedin.com/in/aydogduyunus/overlay/background-image/)
+![LinkedIn Banner Resmi](https://media.licdn.com/dms/image/v2/D4D16AQH4CW43rZ3ITQ/profile-displaybackgroundimage-shrink_350_1400/B4DZqJ1anJGkAg-/0/1763249073684?e=1764806400&v=beta&t=k5R7KH0kW2_dYOmOY7HoYVw29gB5lTDFobVaw17Kyxk)
 
 <h1 align="center">Hi 🙋🏻, I'm Yunus</h1>
 <h3 align="center">A passionate Software Test Engineer from Turkiye</h3>
